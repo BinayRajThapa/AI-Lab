@@ -79,7 +79,7 @@ Unified structure to solve and visualize:
 
 
 ## 👨‍💻 Author
-Binaya Raj Thapa
+Binaya Raj Thapa <br>
 Kathmandu University
 
 ---
